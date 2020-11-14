@@ -1,5 +1,5 @@
 <b>The dependencies you need to run the "Tyings.gg" script are:</b>
-<li>
+
   <ul>
     Google Chrome Browser
   </ul>
@@ -10,4 +10,4 @@
   <ul>
     Selenium - pip install selenium
     </ul>
-  </li>
+
